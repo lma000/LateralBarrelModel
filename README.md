@@ -1,0 +1,1 @@
+Code associated with the paper 'A Model of Lateral Interactions as the Origin of Multiwhisker Receptive Fields in Rat Barrel Cortex'. The folder `model` contains base code for the simulation conditions described in the Results section, and the folder `figures` contains additional scripts required to generate the figures from the paper. 
